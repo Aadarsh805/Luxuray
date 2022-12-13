@@ -1,10 +1,11 @@
-# Luzuray
+# Luxuray
 
 An open-source full stack fashion e-commerce web project
 
+<!-- 
 ## UI Design
 
-<!-- ![UI](https://i.imgur.com/z0xoIWh.png) -->
+![UI](https://i.imgur.com/z0xoIWh.png) 
 <!-- 
 ## Tech Stack
 
@@ -55,7 +56,7 @@ This project is in a very early stage so anybody who's familiar with **ReactJS**
 If you are interested to contribute and want to learn more about the technologies that are used in this project, checkout the links below.
 
 - [ReactJS Official Docs](https://reactjs.org/docs/getting-started.html)
-- [NextJS Documentation](https://nextjs.org/docs/getting-started)
+- [NextJS Documentation](https://beta.nextjs.org/docs)
 - [TailwindCSS Docs](https://tailwindcss.com/docs/installation)
 - [Material UI Documentaion](https://mui.com/material-ui/getting-started/overview/)
 
