@@ -6,9 +6,19 @@
     "start": "next start"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.0",
+    "@prisma/client": "^4.7.1",
+    "@supabase/supabase-js": "^2.2.0",
+    "axios": "^1.2.1",
     "next": "^13.0.4",
+    "prisma": "^4.7.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-query": "^3.39.2",
+    "zod": "^3.20.2"
   },
   "devDependencies": {
     "@types/node": "18.11.3",
