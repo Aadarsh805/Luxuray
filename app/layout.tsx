@@ -8,7 +8,10 @@ export default function RootLayout({
   return (
     <html>
       <head />
-      <body>{children}</body>
+      <body>
+        <header className='bg-gray-600 p-8 text-center'>header it is</header>
+        {children}
+        </body>
     </html>
   )
 }
