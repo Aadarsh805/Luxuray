@@ -1,17 +1,18 @@
-import '../styles/globals.css'
+import "../styles/globals.css";
+import Navbar from "./Navbar";
 
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode
+  children: React.ReactNode;
 }) {
   return (
     <html>
       <head />
       <body>
-        <header className='bg-gray-600 p-8 text-center'>header it is</header>
+        <Navbar />
         {children}
-        </body>
+      </body>
     </html>
-  )
+  );
 }
